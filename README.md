@@ -6,14 +6,11 @@ For that we need to have an Algorithm but at this stage, We dont need any one of
 
 We just need to integrate the dilaoflow to our application so that we can have the conversation in the mobile app !!
 
-Dialoglow plugin : 
+<a class="github-button" href="https://pub.dev/packages/flutter_dialogflow">Dialogflow plugin for the Flutter</a></h3>
 
-Adopt Animal is App UI that can help to adopt animlas from app working both on Android / iOS..
-Which can help people to look for animals adoption provided by the nearby adoption centres...
-
-<h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
+<h3>Check out full tutorial on Dialoglow and Flutter on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true"  width="500"
+<img src="https://youtu.be/Kgy-vffbgzA"  width="500"
      height="300">
 </img>
 </a>
