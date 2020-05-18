@@ -10,7 +10,7 @@ We just need to integrate the dilaoflow to our application so that we can have t
 
 <h3>Check out full tutorial on Dialoglow and Flutter on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
 <a href="https://youtu.be/kd1CLYLymbI">
-<img src="https://youtu.be/Kgy-vffbgzA"  width="500"
-     height="300">
+<img src="https://github.com/neon97/chatbot_dialogflow/blob/master/assets/Screenshot%202020-05-18%20at%2011.35.40%20AM.png?raw=true"  width="250"
+     height="150">
 </img>
 </a>
