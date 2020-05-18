@@ -1,16 +1,19 @@
-# chatbot_dialogflow
+# Chatbot Flutter Application With Dialogflow
 
-A new Flutter project.
+Chatbot is an virtual bot that can reply to user question on which it has to be trained and complied in such a way that it works and answers the user question easily !!
 
-## Getting Started
+For that we need to have an Algorithm but at this stage, We dont need any one of these we can esily have the DIALOGFLOW so as to train the bot and the algo works from thier side itself !!
 
-This project is a starting point for a Flutter application.
+We just need to integrate the dilaoflow to our application so that we can have the conversation in the mobile app !!
 
-A few resources to get you started if this is your first Flutter project:
+Dialoglow plugin : 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Adopt Animal is App UI that can help to adopt animlas from app working both on Android / iOS..
+Which can help people to look for animals adoption provided by the nearby adoption centres...
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h3>Check out for full Flutter UI design video on <a class="github-button" href="https://www.youtube.com/channel/UCRhmjCnvOgULTzEFe-Jpfdw">Youtube</a></h3> 
+<a href="https://youtu.be/kd1CLYLymbI">
+<img src="https://github.com/neon97/Adopt-Animals-Design-Flutter/blob/master/screenshots/thumbnail.png?raw=true"  width="500"
+     height="300">
+</img>
+</a>
